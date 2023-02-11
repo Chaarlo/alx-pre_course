@@ -1,0 +1,5 @@
+1. Capitilize key commands
+2. Write one statement per line.
+3. Use indentation
+4. Be Specific
+5. Keep it simple 
